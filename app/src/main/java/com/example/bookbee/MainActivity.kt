@@ -8,6 +8,7 @@ import com.example.bookbee.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
 
+    // new comment
     // binding
 
     private lateinit var binding:ActivityMainBinding
