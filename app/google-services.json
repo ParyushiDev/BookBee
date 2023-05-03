@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068118342863",
+    "project_id": "bookbee-b0890",
+    "storage_bucket": "bookbee-b0890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068118342863:android:b8f5595c6c5facdfef8bba",
+        "android_client_info": {
+          "package_name": "com.example.bookbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068118342863-bmhd6o3124g703ihmptr7eq6n7otr604.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0llzJ19LlP2GRH7CWgoWatGNzj0PeHcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068118342863-bmhd6o3124g703ihmptr7eq6n7otr604.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
